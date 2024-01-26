@@ -2,13 +2,18 @@
 <BuildLog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <ProjectInfo>
     <Name>ETL FOR DW</Name>
-    <LastWriteTime>2024-01-26T16:14:43.0327465Z</LastWriteTime>
+    <LastWriteTime>2024-01-26T18:14:55.0517486Z</LastWriteTime>
     <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
   </ProjectInfo>
   <LastBuildInfos>
     <ProjectBuildItemInfo>
       <Name>DIM ETL.dtsx</Name>
-      <LastWriteTime>2024-01-26T16:14:43.0039908Z</LastWriteTime>
+      <LastWriteTime>2024-01-26T17:06:51.8551233Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>ETL FACT INIT.dtsx</Name>
+      <LastWriteTime>2024-01-26T18:46:41.4650506Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
   </LastBuildInfos>
